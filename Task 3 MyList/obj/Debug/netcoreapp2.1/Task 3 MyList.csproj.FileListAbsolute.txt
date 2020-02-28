@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\Stack\Stack\Task 3 MyList\obj\Debug\netcoreapp2.1\Task 3 MyList.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Stack\Stack\Task 3 MyList\obj\Debug\netcoreapp2.1\Task 3 MyList.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Stack\Stack\Task 3 MyList\obj\Debug\netcoreapp2.1\Task 3 MyList.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Stack\Stack\Task 3 MyList\obj\Debug\netcoreapp2.1\Task 3 MyList.AssemblyInfo.cs
+C:\Users\User\Downloads\Stack\Stack\Task 3 MyList\bin\Debug\netcoreapp2.1\Task 3 MyList.deps.json
+C:\Users\User\Downloads\Stack\Stack\Task 3 MyList\bin\Debug\netcoreapp2.1\Task 3 MyList.runtimeconfig.json
+C:\Users\User\Downloads\Stack\Stack\Task 3 MyList\bin\Debug\netcoreapp2.1\Task 3 MyList.runtimeconfig.dev.json
+C:\Users\User\Downloads\Stack\Stack\Task 3 MyList\bin\Debug\netcoreapp2.1\Task 3 MyList.dll
+C:\Users\User\Downloads\Stack\Stack\Task 3 MyList\bin\Debug\netcoreapp2.1\Task 3 MyList.pdb
+C:\Users\User\Downloads\Stack\Stack\Task 3 MyList\obj\Debug\netcoreapp2.1\Task 3 MyList.dll
+C:\Users\User\Downloads\Stack\Stack\Task 3 MyList\obj\Debug\netcoreapp2.1\Task 3 MyList.pdb
